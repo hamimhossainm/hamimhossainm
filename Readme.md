@@ -1,6 +1,6 @@
-![Hamim](/me.jpg)
+<!-- ![Hamim](/me.jpg) -->
 
-<!-- <img src="/me.jpg" width="200px" alt="Hamim"> -->
+<img src="/me.jpg" width="200px" alt="Hamim">
 
 
 
