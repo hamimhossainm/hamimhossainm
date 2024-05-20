@@ -61,7 +61,7 @@ IT Officer - **_Navana Pharmaceuticals Ltd_**
 
 _Phone: 01842685145_ <br>
 _Email: hamim.dashboard@gmail.com_ <br>
-_Address: Road#6/A, Sectior#05, Uttara,Dhaka-1230_
+_Address: Road#6/A, Sectior#05, Uttara, Dhaka-1230_
 
 
 
