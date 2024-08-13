@@ -1,4 +1,4 @@
-![Your Alt Text](/Programmer.gif)
+![Banner](/banner.gif)
 
 # Hamim Hossain ! 
 
